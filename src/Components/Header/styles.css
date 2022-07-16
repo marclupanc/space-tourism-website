@@ -1,0 +1,35 @@
+li {
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    max-width: none;
+}
+
+.nav-numbers {
+    margin-right: .5em;
+    font-weight: bold;
+}
+
+.header {
+    color: white;
+    background: hsl(var(--clr-white) / 0.01);
+    backdrop-filter: blur(1rem);
+    width: 860px;
+    height: 90px;
+    margin-left: auto;
+    margin-top: 40px;
+
+
+}
+
+.nav-items {
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+    padding-top: 33px;
+    color: white;
+    letter-spacing: 3px;
+}
+
