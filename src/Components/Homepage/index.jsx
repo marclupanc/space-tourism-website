@@ -3,7 +3,7 @@ import "./styles.css";
 
 const Home = () => {
   return (
-    <div className="homeBody">
+    <div className="homebody">
       <div className="intro">
         <div className="text">
           <span className="title"> SO, YOU WANT TO TRAVEL TO</span>
